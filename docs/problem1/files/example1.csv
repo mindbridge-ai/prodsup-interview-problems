@@ -1,0 +1,102 @@
+"account","account_description","effective date","memo","source","transaction","debit","credit"
+12029,"Accounts Receivable",2013-06-12,"Customer 29","sale","J1",4361.24,0
+15300,"Hardware",2013-06-12,"Customer 29","sale","J1",0,566.31
+23100,"HST Charged On Sales",2013-06-12,"Customer 29","sale","J1",0,501.74
+42200,"Sales: Hardware",2013-06-12,"Customer 29","sale","J1",0,3859.5
+50200,"Material: Hardware",2013-06-12,"Customer 29","sale","J1",566.31,0
+10600,"Bank Account",2013-06-15,"Employee 1","payroll","J2",0,1252.31
+54100,"Wages & Salaries",2013-06-15,"Employee 1","payroll","J2",1592.76,0
+21900,"Federal Income Tax Payable",2013-06-15,"Employee 1","payroll","J2",0,238.91
+21800,"EI Payable",2013-06-15,"Employee 1","payroll","J2",0,71.67
+54200,"EI Expense",2013-06-15,"Employee 1","payroll","J2",41.81,0
+21850,"CPP Payable",2013-06-15,"Employee 1","payroll","J2",0,143.35
+54300,"CPP Expense",2013-06-15,"Employee 1","payroll","J2",71.67,0
+10600,"Bank Account",2013-06-21,"direct deposit CRA","payroll withholding remittance","J3",0,453.93
+21900,"Federal Income Tax Payable",2013-06-21,"direct deposit CRA","payroll withholding remittance","J3",238.91,0
+21800,"EI Payable",2013-06-21,"direct deposit CRA","payroll withholding remittance","J3",71.67,0
+21850,"CPP Payable",2013-06-21,"direct deposit CRA","payroll withholding remittance","J3",143.35,0
+10600,"Bank Account",2013-06-30,"Employee 1","payroll","J4",0,1252.31
+54100,"Wages & Salaries",2013-06-30,"Employee 1","payroll","J4",1592.76,0
+21900,"Federal Income Tax Payable",2013-06-30,"Employee 1","payroll","J4",0,238.91
+21800,"EI Payable",2013-06-30,"Employee 1","payroll","J4",0,71.67
+54200,"EI Expense",2013-06-30,"Employee 1","payroll","J4",41.81,0
+21850,"CPP Payable",2013-06-30,"Employee 1","payroll","J4",0,143.35
+54300,"CPP Expense",2013-06-30,"Employee 1","payroll","J4",71.67,0
+18150,"Accum Amort: Furniture & Fixtures",2013-06-30,"month end","depreciation","J5",0,339.17
+18250,"Accum Amort: Vehicle",2013-06-30,"month end","depreciation","J5",0,694.39
+56600,"Amortization Expense",2013-06-30,"month end","depreciation","J5",1033.56,0
+10600,"Bank Account",2013-06-30,"Fife & Furley Ltd.","monthly operating expense","J6",0,582.655
+23150,"HST Paid On Purchases",2013-06-30,"Fife & Furley Ltd.","monthly operating expense","J6",67.03,0
+57600,"Rent",2013-06-30,"Fife & Furley Ltd.","monthly operating expense","J6",515.625,0
+10600,"Bank Account",2013-06-30,"SCDP Ltd.","monthly operating expense","J7",0,36.1835148892168
+56150,"Advertising & Promotions",2013-06-30,"SCDP Ltd.","monthly operating expense","J7",36.1835148892168,0
+10600,"Bank Account",2013-06-30,"Laurentia Hydro Company","monthly operating expense","J8",0,938.856072947915
+23150,"HST Paid On Purchases",2013-06-30,"Laurentia Hydro Company","monthly operating expense","J8",108.01,0
+57900,"Utilities",2013-06-30,"Laurentia Hydro Company","monthly operating expense","J8",830.846072947915,0
+10600,"Bank Account",2013-07-05,"direct deposit CRA","payroll withholding remittance","J9",0,453.93
+21900,"Federal Income Tax Payable",2013-07-05,"direct deposit CRA","payroll withholding remittance","J9",238.91,0
+21800,"EI Payable",2013-07-05,"direct deposit CRA","payroll withholding remittance","J9",71.67,0
+21850,"CPP Payable",2013-07-05,"direct deposit CRA","payroll withholding remittance","J9",143.35,0
+10600,"Bank Account",2013-07-10,"Customer 29","payment received","J10",4361.24,0
+12029,"Accounts Receivable",2013-07-10,"Customer 29","payment received","J10",0,4361.24
+12011,"Accounts Receivable",2013-07-13,"Customer 11","sale","J11",5356.83,0
+15300,"Hardware",2013-07-13,"Customer 11","sale","J11",0,2385.25
+23100,"HST Charged On Sales",2013-07-13,"Customer 11","sale","J11",0,616.27
+42200,"Sales: Hardware",2013-07-13,"Customer 11","sale","J11",0,4740.56
+50200,"Material: Hardware",2013-07-13,"Customer 11","sale","J11",2385.25,0
+10600,"Bank Account",2013-07-15,"Employee 1","payroll","J12",0,1252.31
+54100,"Wages & Salaries",2013-07-15,"Employee 1","payroll","J12",1592.76,0
+21900,"Federal Income Tax Payable",2013-07-15,"Employee 1","payroll","J12",0,238.91
+21800,"EI Payable",2013-07-15,"Employee 1","payroll","J12",0,71.67
+54200,"EI Expense",2013-07-15,"Employee 1","payroll","J12",41.81,0
+21850,"CPP Payable",2013-07-15,"Employee 1","payroll","J12",0,143.35
+54300,"CPP Expense",2013-07-15,"Employee 1","payroll","J12",71.67,0
+10600,"Bank Account",2013-07-19,"direct deposit CRA","payroll withholding remittance","J13",0,453.93
+21900,"Federal Income Tax Payable",2013-07-19,"direct deposit CRA","payroll withholding remittance","J13",238.91,0
+21800,"EI Payable",2013-07-19,"direct deposit CRA","payroll withholding remittance","J13",71.67,0
+21850,"CPP Payable",2013-07-19,"direct deposit CRA","payroll withholding remittance","J13",143.35,0
+12012,"Accounts Receivable",2013-07-26,"Customer 12","sale","J14",42.22,0
+15300,"Hardware",2013-07-26,"Customer 12","sale","J14",0,20.68
+23100,"HST Charged On Sales",2013-07-26,"Customer 12","sale","J14",0,4.86
+42200,"Sales: Hardware",2013-07-26,"Customer 12","sale","J14",0,37.36
+50200,"Material: Hardware",2013-07-26,"Customer 12","sale","J14",20.68,0
+10600,"Bank Account",2013-07-31,"Employee 1","payroll","J15",0,1252.31
+54100,"Wages & Salaries",2013-07-31,"Employee 1","payroll","J15",1592.76,0
+21900,"Federal Income Tax Payable",2013-07-31,"Employee 1","payroll","J15",0,238.91
+21800,"EI Payable",2013-07-31,"Employee 1","payroll","J15",0,71.67
+54200,"EI Expense",2013-07-31,"Employee 1","payroll","J15",41.81,0
+21850,"CPP Payable",2013-07-31,"Employee 1","payroll","J15",0,143.35
+54300,"CPP Expense",2013-07-31,"Employee 1","payroll","J15",71.67,0
+18150,"Accum Amort: Furniture & Fixtures",2013-07-31,"month end","depreciation","J16",0,339.17
+18250,"Accum Amort: Vehicle",2013-07-31,"month end","depreciation","J16",0,694.39
+56600,"Amortization Expense",2013-07-31,"month end","depreciation","J16",1033.56,0
+10600,"Bank Account",2013-07-31,"Fife & Furley Ltd.","monthly operating expense","J17",0,582.655
+23150,"HST Paid On Purchases",2013-07-31,"Fife & Furley Ltd.","monthly operating expense","J17",67.03,0
+57600,"Rent",2013-07-31,"Fife & Furley Ltd.","monthly operating expense","J17",515.625,0
+10600,"Bank Account",2013-07-31,"SCDP Ltd.","monthly operating expense","J18",0,36.8791345456651
+56150,"Advertising & Promotions",2013-07-31,"SCDP Ltd.","monthly operating expense","J18",36.8791345456651,0
+10600,"Bank Account",2013-07-31,"Laurentia Hydro Company","monthly operating expense","J19",0,542.577408944423
+23150,"HST Paid On Purchases",2013-07-31,"Laurentia Hydro Company","monthly operating expense","J19",62.42,0
+57900,"Utilities",2013-07-31,"Laurentia Hydro Company","monthly operating expense","J19",480.157408944423,0
+10600,"Bank Account",2013-08-05,"Customer 11","payment received","J20",5356.83,0
+12011,"Accounts Receivable",2013-08-05,"Customer 11","payment received","J20",0,5356.83
+12005,"Accounts Receivable",2013-08-05,"Customer 5","sale","J21",2789.78,0
+15200,"Drywall",2013-08-05,"Customer 5","sale","J21",0,55.69
+15300,"Hardware",2013-08-05,"Customer 5","sale","J21",0,83.61
+15400,"Lumber",2013-08-05,"Customer 5","sale","J21",0,887.14
+23100,"HST Charged On Sales",2013-08-05,"Customer 5","sale","J21",0,320.95
+42100,"Sales: Drywall",2013-08-05,"Customer 5","sale","J21",0,104.34
+42200,"Sales: Hardware",2013-08-05,"Customer 5","sale","J21",0,126.48
+42300,"Sales: Lumber",2013-08-05,"Customer 5","sale","J21",0,2238.01
+50100,"Material: Drywall",2013-08-05,"Customer 5","sale","J21",55.69,0
+50200,"Material: Hardware",2013-08-05,"Customer 5","sale","J21",83.61,0
+50300,"Material: Lumber",2013-08-05,"Customer 5","sale","J21",887.14,0
+10600,"Bank Account",2013-08-09,"direct deposit CRA","payroll withholding remittance","J22",0,453.93
+21900,"Federal Income Tax Payable",2013-08-09,"direct deposit CRA","payroll withholding remittance","J22",238.91,0
+21800,"EI Payable",2013-08-09,"direct deposit CRA","payroll withholding remittance","J22",71.67,0
+21850,"CPP Payable",2013-08-09,"direct deposit CRA","payroll withholding remittance","J22",143.35,0
+12023,"Accounts Receivable",2013-08-13,"Customer 23","sale","J23",122.21,0
+15300,"Hardware",2013-08-13,"Customer 23","sale","J23",0,168.51
+23100,"HST Charged On Sales",2013-08-13,"Customer 23","sale","J23",0,14.06
+42200,"Sales: Hardware",2013-08-13,"Customer 23","sale","J23",0,108.15
+50200,"Material: Hardware",2013-08-13,"Customer 23","sale","J23",168.51,0

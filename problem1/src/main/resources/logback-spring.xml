@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
+    <include resource="org/springframework/boot/logging/logback/console-appender.xml"/>
+    <appender name="json" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder class="net.logstash.logback.encoder.LogstashEncoder">
+           <!-- For consistency with our other inputs, rename level to severity_label -->
+            <fieldNames>
+                <level>severity_label</level>
+            </fieldNames>
+        </encoder>
+    </appender>
+
+    <!-- Log everything to the console in json format -->
+    <root level="INFO">
+        <appender-ref ref="json"/>
+    </root>
+</configuration>
